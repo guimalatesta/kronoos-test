@@ -1,0 +1,15 @@
+node_modules/
+
+*.log
+*.sqlite
+
+.vscode/
+.idea/
+
+*.pyc
+*.class
+*.jar
+
+.env
+
+.DS_Store
